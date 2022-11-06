@@ -1,0 +1,85 @@
+Functional Circuit Order,Funtional Task,Instructions,Preparation,Spine,,,,,,UL Right,,,,,,UL Left,,,,,,LL,,,,,,,,,
+,,,,Bending forward,Straightening/arching*,Rotation left,Rotation right,Side bend left,Side bend right,Proximal overhead reaching,Distal overhead reaching,Proximal reaching,Distal reaching,Reaching down,Non-functional,Proximal overhead reaching,Distal overhead reaching,Proximal reaching,Distal reaching,Reaching down,Non-functional,Sitting ,Standing,Walking,Running,Stair ascend,Stair descend,Squatting,Kneeling,Lying,Rolling
+Start,Static standing,Stand upright with arms relaxed by your side.,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,
+2,Jump,"Using both legs, do a 5 jumps, attempting to land back in the same spot you started.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,,,,,,,Ê
+3,Lying on bed on back.,"Lie on the bed, on your back. Don't cross your legs, keep your hands to your side or on your chest/stomach",,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,,,,,,x,Ê
+4,Cycle through different natural postures you sleep in,"Start lying on your back, and then roll over to the side. Hold each position for 10 seconds.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,,,,,,x,x
+5,"Sit up (from lying), sit with legs over the edge of the bed.","Starting from lying on your back, sit up and sit with your legs over the edge of the bed. When sitting, keep your hands to your side or place them on your thighs.",,,x,,,,,,,,,,x,Ê,,,,,x,x,,,,,,,,,x
+6,Bend down and tie shoelace of shoes,Bend forward to tie up a shoelace. Keep your feet on the floor.,Provide a shoe if participant is not wearing a laced shoe.,x,,,,,,,,,,x,,Ê,,,,x,Ê,x,,,,,,,,,Ê
+7,Sit up straight,"Start bent forward as if you're tying up the shoe, then straighten up to sit up straight.",,,x,,,,,,,,,,x,Ê,,,,,x,x,,,,,,,,,Ê
+8,Stand up and turn around to face the bed,Stand up from the bed and turn around 180 degrees to face the bed. Keep your arms to your sides.,,,x,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+9,Cover the bed with the sheet,Cover the bed with the sheet. Please use both hands.,,x,,,,,,,,,,x,,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+10,Stack the pillows,Place the pillow in a neat stack at the head of the bed. Please use both hands to hold each pillow.,,x,,,,,,,,,,x,,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+11,Turn around and switch off the light.,Use your right hand to switch off the light at the wall switch.,,,x,,,,,x,,,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+12,Turn and walk (<10m) to high shelf,Walk at your natural pace to the shelves in the kitchen.,,,x,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+13,Open the shelf door with right arm,Open the door of the high shelf with your right hand. Keep your left hand to your side or in your pocket.,Make sure there are 5 items on the shelf for the subject to pick.,,x,,,,,,x,,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+14,Take items from the shelf and place on bench right arm,Use your right hand to take items from the shelf and place them on the bench.,,,,,,,,,x,,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+15,Take items from the bench and place on shelf right arm,Use your right hand to take items from the bench and return them to the shelf.,,,,,,,,,x,,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+16,Close the shelf door right arm,Close the door of the high shelf with your right hand. Keep your left hand to your side or in your pocket.,,,x,,,,,,x,,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+17,Open the shelf door with left arm,Open the door of the high shelf with your left hand. Keep your right hand to your side or in your pocket.,,,,,,,,,,,,,x,Ê,x,,,,Ê,Ê,x,,,,,,,,Ê
+18,Take items from the shelf and place on bench left arm,Use your left hand to take items from the shelf and place them on the bench.,,,,,,,,,,,,,x,Ê,x,,,,Ê,Ê,x,,,,,,,,Ê
+19,Take items from the shelf and place on shelf left arm,Use your left hand to take items from the bench and return them to the shelf.,,,,,,,,,,,,,x,Ê,x,,,,Ê,Ê,x,,,,,,,,Ê
+20,Close the shelf door left arm,Close the door of the high shelf with your left hand. Keep your right hand to your side or in your pocket.,,,,,,,,,,,,,x,Ê,x,,,,Ê,Ê,x,,,,,,,,Ê
+21,"Use both hands to open the shelf door, move items to the bench, move them back again, close door.","Use both hands to open the shelf door, move items to the bench, move them back again, close door.",,,x,,,,,,,,,,,Ê,,,,,Ê,Ê,x,,,,,,,,Ê
+22,Walk and stand infront of the fridge,Walk at your natural pace to stand in front of the fridge,,,x,,,,,,,,,,x,Ê,,,,,x,Ê,x,x,,,,,,,Ê
+23,Open the fridge door with your right hand.,Open the door of the fridge with your right hand. Keep your left hand to your side or in your pocket.,,,x,,,,,,,,x,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+24,"Bend down, pick a bottle from the low shelf and place it on the bench with right hand",Bend at the hips and use your right hand to take a bottle from the bottom shelf and place it on the bench. Don't squat with your legs.,,x,,,,,,,,,,x,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+25,Close the fridge door with right hand,Keep your left hand in your pocket or simply let it hang to your side.,Make sure there is a bottle in the lower shelf.,,x,,,,,,,,x,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+26,Open the fridge door with your left hand.,Open the door of the fridge with your left hand. Keep your right hand to your side or in your pocket.,,,,,,,,,,,,,x,Ê,,,x,,Ê,Ê,x,,,,,,,,Ê
+27,"Bend down, pick a bottle from the low shelf and place it on the bench with lefthand",Bend at the hips and use your left hand to take a bottle from the bottom shelf and place it on the bench. Don't squat with your legs.,,,,,,,,,,,,,x,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+28,Close the fridge door with left hand,Close the door of the fridge with your left hand. Keep your right hand to your side or in your pocket.,,,,,,,,,,,,,x,Ê,,,x,,Ê,Ê,x,,,,,,,,Ê
+29,"Use either/both hands to open fridge and move two bottles from fridge to bench, and close fridge","Use either or both hands to open the fridge door, move two bottles to the bench, and close the fridge.",,x,,,,,,,,,,,,Ê,,,,,Ê,Ê,x,,,,,,,,Ê
+30,Walk to the bench and stand in front of the cup,Walk to stand in front of the bench where the cup is.,Make sure there is a cup and a jug/bottle on the bench,,,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+31,Hold cup with left hand and pour the content of the jar into the cup with your right hand,Hold cup with left hand and pour liquid from the jug into the cup with your right hand,,,x,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+32,Walking to table holding cup in right hand,"While holding the cup with the right hand, walk to the table and place the cup on the table.",,,x,,,,,,,x,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+33,Pull chair with right hand and sit down,Pull out the chair with your right hand and sit down at the chair.,,,x,,,,,,,x,,,,Ê,,,,,x,Ê,x,,,,,,,,Ê
+34,Sit with arms resting on the table.,Sit naturally with your arms resting on the table.,,,,,,,,,,,,,x,Ê,,,,,x,x,,,,,,,,,Ê
+35,Simulate drinking from the cup with your right hand.,Hold the cup with your right hand and pretend to drink,,,x,,,,,x,,x,,,,Ê,,,,,x,x,,,,,,,,,Ê
+36,Simulate drinking from the cup with your left hand.,Hold the cup with your left hand and pretend to drink,Make sure there is a keyboard on the table,,x,,,,,,,,,,x,x,,x,,,Ê,x,,,,,,,,,Ê
+37,Type a sentence on the keyboard,"Type the following sentences on the keyboard ""The quick brown fox jumps over the lazy dog""",Make sure there is a pen and a paper on the table,,x,,,,,,,x,,,,Ê,,x,,,Ê,x,,,,,,,,,Ê
+38,Writing a sentence with a pen and paper.,"Pick up the pen and write ""Write with a pen"" on the piece of paper",,,x,,,,,,,x,,,,Ê,,,,,x,x,,,,,,,,,Ê
+39,Stand from chair.,Stand up from the chair.,,,x,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+40,Walk to the boxes,Walk at your natural pace over to stand in front of the boxes.,Make sure there are boxes by the couch,,x,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+41,Bend over and lift the light (0.5kg) box with both arms,"Without squatting, bend at the hips and lift up the light box with both arms",,x,,,,,,,,,,x,,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+42,Carry box to the table,"While carrying the box, walk over to the table.",,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,,x,,,,,,,Ê
+43,Place box on the table,Place the box on the table.,,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+44,Walk to the other box,Walk back over to stand in front of the other box.,,,x,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+45,Bend over and lift the heavy (5kg) box with both arms,"Without squatting, bend at the hips and lift up the heavy box with both arms",,x,,,,,,,,,,x,,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+46,Carry box to the table,"While carrying the box, walk over to the table.",,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,,x,,,,,,,Ê
+47,Place box on the table,Place the box on the table.,,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+48,Walk to the grocery bag,Walk over to stand next ot the grocery bag.,Make sure there is a grocery bag close to the couch.,,x,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+49,Bend over and pick the grocery bag from the floor with your left hand.,"Without squatting, bend at the hips and grab the grocery bag with your left hand",,x,,,,,,,,,,,x,Ê,,,,x,Ê,Ê,x,,,,,,,,Ê
+50,Carry grocery bag to kitchen bench,"While carrying the grocery bag, walk over to the kitchen bench.",,,,,,,,,,,,,x,Ê,,,,x,Ê,Ê,,x,,,,,,,Ê
+51,Place bag on bench,Place the grocery bag up on the bench.,,,,,,,,,,,,,x,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+52,Use your right hand to pick out items from the bag and place it on the bench.,Use your left hand to keep the bag open and use your right hand to remove all items from the bag and place them on the bench.,,,x,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+53,Walk to the chair and sit down.,Walk back to the chair and sit down at the chair.,Make sure there is a chair away from the able.,,x,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+54,Pick up the object on the floor in front of you with you right hand.,Bend over to pick up the object on the floor in front of you with your right hand. Keep your left hand on your thigh or by your side.,,x,,,,,,,,,,x,,Ê,,,,,x,x,,,,,,,,,Ê
+55,Pick up the object on the floor in front of you with you left hand.,Bend over to pick up the object on the floor in front of you with your left hand. Keep your right hand on your thigh or by your side.,,x,,,,,,,,,,,x,Ê,,,,x,Ê,x,,,,,,,,,Ê
+56,Pick up the object on the floor to your right side.,Bend to the right to pick up the object on the floor to your right with your right hand. Keep your left hand on your thigh or by your side.,,,,,,,x,,,,,x,,Ê,,,,,x,x,,,,,,,,,Ê
+57,Pick up the object on the floor to your left side.,Bend to the left to pick up the object on the floor to your left with your left hand. Keep your right hand on your thigh or by your side.,,,,,,x,,,,,,,x,Ê,,,,x,Ê,x,,,,,,,,,Ê
+58,Twist right grasp object with left hand and return to centre,"By twisting your torso, pick up the object to your right with your left hand and place it in front of you.",,,,,x,,,,,,,,,,,,x,,,x,,,,,,,,,
+59,Twist right grasp object with left hand and return to centre,"By twisting your torso, pick up the object to your left with your right hand and place it in front of you.",,,,x,,,,,,,x,,,,,,,,,x,,,,,,,,,
+60,Stand up from the chair,Stand up from the chair.,,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+61,Walk to the couch,Walk at your natural pace over to the couch.,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+62,Sit on the couch,Sit down on the couch.,,,,,,,,,,,,,x,Ê,,,,,x,x,,,,,,,,,Ê
+63,Lie back into a relaxed posture on the couch.,Lie back into a relaxed posture on the couch.,,,x,,,,,,,,,,x,Ê,,,,,x,x,,,,,,,,,Ê
+64,Stand up from the couch,Stand up from the couch,,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+65,Walk to the kitchen sink,Walk to the kitchen sink,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+66,Simulate turning on the tap with your left hand,"Simulate turning on the tap with your left hand, placing your right hand on the bench.",,,,,,,,,,,,,x,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+67,Simulate washing hands,Pretend you're washing your hands,,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+68,Simulate wiping your hands dry.,Pretend you're wiping your hands dry.,,,,,,,,,,x,,,,Ê,,x,,,Ê,Ê,x,,,,,,,,Ê
+69,Walk (10+ m of straightline walking) ,Walk down to the end of this hallway.,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+70,Turn and walk back,Turn around and walk back to the start of the hallway.,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,x,,,,,,,Ê
+71,Look down.,"While standing, bend your neck forward to look down at your feet.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+72,Look to the right,"While standing, turn your neck to look over your right shoulder.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+73,Look to the left,"While standing, turn your neck to look over your left shoulder.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+74,Bend neck to the right,"While standing, bend your neck to the side to get your right ear close to your right shoulder.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+75,Bend neck to the left,"While standing, bend your neck to the side to get your left ear close to your left shoulder.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,x,,,,,,,,Ê
+76,Descend stairs,Walk down this flight of stairs,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,,,x,,,,Ê
+77,Ascend stairs,Walk back up this flight of stairs.,,,,,,,,,,,,,,Ê,,,,,Ê,Ê,,,,x,,,,,Ê
+78,Jog/Run,Jog along this hallway,,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,x,,,,,,Ê
+79,Jump,"Using both legs, do a 5 jumps, attempting to land back in the same spot you started.",,,,,,,,,,,,,x,Ê,,,,,x,Ê,,,,,,,,,Ê
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Label counts,10,25,1,1,1,1,2,4,13,3,8,44,1,4,12,3,10,44,16,42,14,1,1,1,0,0,2,2

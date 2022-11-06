@@ -1,0 +1,563 @@
+{
+    "name": "Parkour Circuit UQ",
+    "N": 1,
+    "camera index": 0,
+    "outdir": "data",
+    "nontaskprefix": "unlabelled",
+    "taskprefix": "task",
+    "tasks": [
+        [
+            "Static standing",
+            [
+                "Stand upright with arms relaxed by your side.",
+                ""
+            ]
+        ],
+        [
+            "Jump",
+            [
+                "Using both legs",
+                " do a 5 jumps"
+            ]
+        ],
+        [
+            "Lying on bed on back.",
+            [
+                "Lie on the bed",
+                " on your back. Don't cross your legs"
+            ]
+        ],
+        [
+            "Cycle through different natural postures you sleep in",
+            [
+                "Start lying on your back",
+                " and then roll over to the side. Hold each position for 10 seconds."
+            ]
+        ],
+        [
+            "Sit up (from lying)",
+            [
+                " sit with legs over the edge of the bed.",
+                "Starting from lying on your back"
+            ]
+        ],
+        [
+            "Bend down and tie shoelace of shoes",
+            [
+                "Bend forward to tie up a shoelace. Keep your feet on the floor.",
+                "Provide a shoe if participant is not wearing a laced shoe."
+            ]
+        ],
+        [
+            "Sit up straight",
+            [
+                "Start bent forward as if you're tying up the shoe",
+                " then straighten up to sit up straight."
+            ]
+        ],
+        [
+            "Stand up and turn around to face the bed",
+            [
+                "Stand up from the bed and turn around 180 degrees to face the bed. Keep your arms to your sides.",
+                ""
+            ]
+        ],
+        [
+            "Cover the bed with the sheet",
+            [
+                "Cover the bed with the sheet. Please use both hands.",
+                ""
+            ]
+        ],
+        [
+            "Stack the pillows",
+            [
+                "Place the pillow in a neat stack at the head of the bed. Please use both hands to hold each pillow.",
+                ""
+            ]
+        ],
+        [
+            "Turn around and switch off the light.",
+            [
+                "Use your right hand to switch off the light at the wall switch.",
+                ""
+            ]
+        ],
+        [
+            "Turn and walk (<10m) to high shelf",
+            [
+                "Walk at your natural pace to the shelves in the kitchen.",
+                ""
+            ]
+        ],
+        [
+            "Open the shelf door with right arm",
+            [
+                "Open the door of the high shelf with your right hand. Keep your left hand to your side or in your pocket.",
+                "Make sure there are 5 items on the shelf for the subject to pick."
+            ]
+        ],
+        [
+            "Take items from the shelf and place on bench right arm",
+            [
+                "Use your right hand to take items from the shelf and place them on the bench.",
+                ""
+            ]
+        ],
+        [
+            "Take items from the bench and place on shelf right arm",
+            [
+                "Use your right hand to take items from the bench and return them to the shelf.",
+                ""
+            ]
+        ],
+        [
+            "Close the shelf door right arm",
+            [
+                "Close the door of the high shelf with your right hand. Keep your left hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Open the shelf door with left arm",
+            [
+                "Open the door of the high shelf with your left hand. Keep your right hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Take items from the shelf and place on bench left arm",
+            [
+                "Use your left hand to take items from the shelf and place them on the bench.",
+                ""
+            ]
+        ],
+        [
+            "Take items from the shelf and place on shelf left arm",
+            [
+                "Use your left hand to take items from the bench and return them to the shelf.",
+                ""
+            ]
+        ],
+        [
+            "Close the shelf door left arm",
+            [
+                "Close the door of the high shelf with your left hand. Keep your right hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Use both hands to open the shelf door",
+            [
+                " move items to the bench",
+                " move them back again"
+            ]
+        ],
+        [
+            "Walk and stand infront of the fridge",
+            [
+                "Walk at your natural pace to stand in front of the fridge",
+                ""
+            ]
+        ],
+        [
+            "Open the fridge door with your right hand.",
+            [
+                "Open the door of the fridge with your right hand. Keep your left hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Bend down",
+            [
+                " pick a bottle from the low shelf and place it on the bench with right hand",
+                "Bend at the hips and use your right hand to take a bottle from the bottom shelf and place it on the bench. Don't squat with your legs."
+            ]
+        ],
+        [
+            "Close the fridge door with right hand",
+            [
+                "Keep your left hand in your pocket or simply let it hang to your side.",
+                "Make sure there is a bottle in the lower shelf."
+            ]
+        ],
+        [
+            "Open the fridge door with your left hand.",
+            [
+                "Open the door of the fridge with your left hand. Keep your right hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Bend down",
+            [
+                " pick a bottle from the low shelf and place it on the bench with lefthand",
+                "Bend at the hips and use your left hand to take a bottle from the bottom shelf and place it on the bench. Don't squat with your legs."
+            ]
+        ],
+        [
+            "Close the fridge door with left hand",
+            [
+                "Close the door of the fridge with your left hand. Keep your right hand to your side or in your pocket.",
+                ""
+            ]
+        ],
+        [
+            "Use either/both hands to open fridge and move two bottles from fridge to bench",
+            [
+                " and close fridge",
+                "Use either or both hands to open the fridge door"
+            ]
+        ],
+        [
+            "Walk to the bench and stand in front of the cup",
+            [
+                "Walk to stand in front of the bench where the cup is.",
+                "Make sure there is a cup and a jug/bottle on the bench"
+            ]
+        ],
+        [
+            "Hold cup with left hand and pour the content of the jar into the cup with your right hand",
+            [
+                "Hold cup with left hand and pour liquid from the jug into the cup with your right hand",
+                ""
+            ]
+        ],
+        [
+            "Walking to table holding cup in right hand",
+            [
+                "While holding the cup with the right hand",
+                " walk to the table and place the cup on the table."
+            ]
+        ],
+        [
+            "Pull chair with right hand and sit down",
+            [
+                "Pull out the chair with your right hand and sit down at the chair.",
+                ""
+            ]
+        ],
+        [
+            "Sit with arms resting on the table.",
+            [
+                "Sit naturally with your arms resting on the table.",
+                ""
+            ]
+        ],
+        [
+            "Simulate drinking from the cup with your right hand.",
+            [
+                "Hold the cup with your right hand and pretend to drink",
+                ""
+            ]
+        ],
+        [
+            "Simulate drinking from the cup with your left hand.",
+            [
+                "Hold the cup with your left hand and pretend to drink",
+                "Make sure there is a keyboard on the table"
+            ]
+        ],
+        [
+            "Type a sentence on the keyboard",
+            [
+                "Type the following sentences on the keyboard The quick brown fox jumps over the lazy dog",
+                "Make sure there is a pen and a paper on the table"
+            ]
+        ],
+        [
+            "Writing a sentence with a pen and paper.",
+            [
+                "Pick up the pen and write Write with a pen on the piece of paper",
+                ""
+            ]
+        ],
+        [
+            "Stand from chair.",
+            [
+                "Stand up from the chair.",
+                ""
+            ]
+        ],
+        [
+            "Walk to the boxes",
+            [
+                "Walk at your natural pace over to stand in front of the boxes.",
+                "Make sure there are boxes by the couch"
+            ]
+        ],
+        [
+            "Bend over and lift the light (0.5kg) box with both arms",
+            [
+                "Without squatting",
+                " bend at the hips and lift up the light box with both arms"
+            ]
+        ],
+        [
+            "Carry box to the table",
+            [
+                "While carrying the box",
+                " walk over to the table."
+            ]
+        ],
+        [
+            "Place box on the table",
+            [
+                "Place the box on the table.",
+                ""
+            ]
+        ],
+        [
+            "Walk to the other box",
+            [
+                "Walk back over to stand in front of the other box.",
+                ""
+            ]
+        ],
+        [
+            "Bend over and lift the heavy (5kg) box with both arms",
+            [
+                "Without squatting",
+                " bend at the hips and lift up the heavy box with both arms"
+            ]
+        ],
+        [
+            "Carry box to the table",
+            [
+                "While carrying the box",
+                " walk over to the table."
+            ]
+        ],
+        [
+            "Place box on the table",
+            [
+                "Place the box on the table.",
+                ""
+            ]
+        ],
+        [
+            "Walk to the grocery bag",
+            [
+                "Walk over to stand next ot the grocery bag.",
+                "Make sure there is a grocery bag close to the couch."
+            ]
+        ],
+        [
+            "Bend over and pick the grocery bag from the floor with your left hand.",
+            [
+                "Without squatting",
+                " bend at the hips and grab the grocery bag with your left hand"
+            ]
+        ],
+        [
+            "Carry grocery bag to kitchen bench",
+            [
+                "While carrying the grocery bag",
+                " walk over to the kitchen bench."
+            ]
+        ],
+        [
+            "Place bag on bench",
+            [
+                "Place the grocery bag up on the bench.",
+                ""
+            ]
+        ],
+        [
+            "Use your right hand to pick out items from the bag and place it on the bench.",
+            [
+                "Use your left hand to keep the bag open and use your right hand to remove all items from the bag and place them on the bench.",
+                ""
+            ]
+        ],
+        [
+            "Walk to the chair and sit down.",
+            [
+                "Walk back to the chair and sit down at the chair.",
+                "Make sure there is a chair away from the able."
+            ]
+        ],
+        [
+            "Pick up the object on the floor in front of you with you right hand.",
+            [
+                "Bend over to pick up the object on the floor in front of you with your right hand. Keep your left hand on your thigh or by your side.",
+                ""
+            ]
+        ],
+        [
+            "Pick up the object on the floor in front of you with you left hand.",
+            [
+                "Bend over to pick up the object on the floor in front of you with your left hand. Keep your right hand on your thigh or by your side.",
+                ""
+            ]
+        ],
+        [
+            "Pick up the object on the floor to your right side.",
+            [
+                "Bend to the right to pick up the object on the floor to your right with your right hand. Keep your left hand on your thigh or by your side.",
+                ""
+            ]
+        ],
+        [
+            "Pick up the object on the floor to your left side.",
+            [
+                "Bend to the left to pick up the object on the floor to your left with your left hand. Keep your right hand on your thigh or by your side.",
+                ""
+            ]
+        ],
+        [
+            "Twist right grasp object with left hand and return to centre",
+            [
+                "By twisting your torso",
+                " pick up the object to your right with your left hand and place it in front of you."
+            ]
+        ],
+        [
+            "Twist right grasp object with left hand and return to centre",
+            [
+                "By twisting your torso",
+                " pick up the object to your left with your right hand and place it in front of you."
+            ]
+        ],
+        [
+            "Stand up from the chair",
+            [
+                "Stand up from the chair.",
+                ""
+            ]
+        ],
+        [
+            "Walk to the couch",
+            [
+                "Walk at your natural pace over to the couch.",
+                ""
+            ]
+        ],
+        [
+            "Sit on the couch",
+            [
+                "Sit down on the couch.",
+                ""
+            ]
+        ],
+        [
+            "Lie back into a relaxed posture on the couch.",
+            [
+                "Lie back into a relaxed posture on the couch.",
+                ""
+            ]
+        ],
+        [
+            "Stand up from the couch",
+            [
+                "Stand up from the couch",
+                ""
+            ]
+        ],
+        [
+            "Walk to the kitchen sink",
+            [
+                "Walk to the kitchen sink",
+                ""
+            ]
+        ],
+        [
+            "Simulate turning on the tap with your left hand",
+            [
+                "Simulate turning on the tap with your left hand",
+                " placing your right hand on the bench."
+            ]
+        ],
+        [
+            "Simulate washing hands",
+            [
+                "Pretend you're washing your hands",
+                ""
+            ]
+        ],
+        [
+            "Simulate wiping your hands dry.",
+            [
+                "Pretend you're wiping your hands dry.",
+                ""
+            ]
+        ],
+        [
+            "Walk (10+ m of straightline walking) ",
+            [
+                "Walk down to the end of this hallway.",
+                ""
+            ]
+        ],
+        [
+            "Turn and walk back",
+            [
+                "Turn around and walk back to the start of the hallway.",
+                ""
+            ]
+        ],
+        [
+            "Look down.",
+            [
+                "While standing",
+                " bend your neck forward to look down at your feet."
+            ]
+        ],
+        [
+            "Look to the right",
+            [
+                "While standing",
+                " turn your neck to look over your right shoulder."
+            ]
+        ],
+        [
+            "Look to the left",
+            [
+                "While standing",
+                " turn your neck to look over your left shoulder."
+            ]
+        ],
+        [
+            "Bend neck to the right",
+            [
+                "While standing",
+                " bend your neck to the side to get your right ear close to your right shoulder."
+            ]
+        ],
+        [
+            "Bend neck to the left",
+            [
+                "While standing",
+                " bend your neck to the side to get your left ear close to your left shoulder."
+            ]
+        ],
+        [
+            "Descend stairs",
+            [
+                "Walk down this flight of stairs",
+                ""
+            ]
+        ],
+        [
+            "Ascend stairs",
+            [
+                "Walk back up this flight of stairs.",
+                ""
+            ]
+        ],
+        [
+            "Jog/Run",
+            [
+                "Jog along this hallway",
+                ""
+            ]
+        ],
+        [
+            "Jump",
+            [
+                "Using both legs",
+                " do a 5 jumps"
+            ]
+        ]
+    ]
+}
