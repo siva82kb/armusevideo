@@ -163,3 +163,4 @@ data/
 logs/
 private/
 _misc/
+!pymf.pyd
