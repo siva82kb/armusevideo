@@ -142,7 +142,7 @@ class ParkourRecorder(QtWidgets.QMainWindow, Ui_ParkourRecorder):
         self.expt.vidwriter = cv2.VideoWriter(
             f'{self.expt.basefname}.avi',
             cv2.VideoWriter_fourcc('X','V','I','D'),
-            30, (img_w, img_h)
+            10, (img_w, img_h)
         )
         self.expt.vidtfhndl = (open(f"{self.expt.basefname}.vidt", "wb")
                                 if self.expt.basefname is not None
@@ -416,10 +416,11 @@ class ParkourRecorder(QtWidgets.QMainWindow, Ui_ParkourRecorder):
             self.expt.vidwriter.write(cv_img)
             # Write time
             self.expt.vidtfhndl.write(temporenc.packb(self.camthread.imgtime))
+            print(self.camthread.imgtime)
         
         # Update display
         self.imgdispcount += 1
-        self.imgdispcount %= 5
+        self.imgdispcount %= 2
         if self.imgdispcount == 0:
             img_w, img_h = (self.lbl_img.size().width(),
                             self.lbl_img.size().height())
@@ -433,6 +434,7 @@ class ParkourRecorder(QtWidgets.QMainWindow, Ui_ParkourRecorder):
         """
         if rgb:
             rgb_image = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+            print(img.shape)
             h, w, ch = rgb_image.shape
             bytes_per_line = ch * w
             convert_to_Qt_format = QtGui.QImage(rgb_image.data, w, h,

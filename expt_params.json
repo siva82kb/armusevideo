@@ -1,7 +1,7 @@
 {
     "name": "Parkour Circuit UQ",
     "N": 1,
-    "camera index": 0,
+    "camera index": 1,
     "outdir": "data",
     "nontaskprefix": "unlabelled",
     "taskprefix": "task",
